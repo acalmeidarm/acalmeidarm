@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 - 👋 Hi, I’m @acalmeidarm 
 - 🔭 I’m currently working on ...software testing
-- 🌱 I’m currently learning ... test automation - Robot Framework - BDD - Cucumber
+- 🌱 I’m currently learning ... test automation - Cypress
 - 📫 How to reach me: ...https://www.linkedin.com/in/ana-carolina-almeida-/
 
 
